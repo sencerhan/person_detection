@@ -1,0 +1,10 @@
+fatal: not a git repository (or any of the parent directories): .git
+CMake Error at C:/Espressif/frameworks/esp-idf/tools/cmake/build.cmake:610 (message):
+  ERROR: The override_path you're using is pointing to directory
+  "C:\Users\Lenovo" that is not a component.
+
+Call Stack (most recent call first):
+  C:/Espressif/frameworks/esp-idf/tools/cmake/project.cmake:710 (idf_build_process)
+  CMakeLists.txt:29 (project)
+
+

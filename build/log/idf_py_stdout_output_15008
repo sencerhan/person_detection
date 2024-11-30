@@ -1,0 +1,10 @@
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- ccache will be used for faster recompilation
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32
+Dependencies lock doesn't exist, solving dependencies.
+NOTICE: Skipping optional dependency: espressif/esp32_s3_eye
+NOTICE: Skipping optional dependency: espressif/esp32_s3_korvo_2
+NOTICE: Skipping optional dependency: espressif/esp32_s2_kaluga_kit
+-- Configuring incomplete, errors occurred!
